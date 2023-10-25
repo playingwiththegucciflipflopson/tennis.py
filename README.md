@@ -1,3 +1,9 @@
 # tennis.py
 
-V.1.0 includes table of all grand-slam winners between 2005 and 2023
+visualisation of grand slam gentlemen singles winners in tennis from 2000 until now
+
+code does include functions like:
+- showing table of winners
+- showing number of grand slam wins for an individual player
+- showing table sorted by amount of slams with player name
+- highlights (beta)
