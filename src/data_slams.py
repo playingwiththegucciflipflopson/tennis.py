@@ -1,3 +1,5 @@
+import json
+
 australian_open = {"2000": "Agassi", "2001": "Agassi", "2002": "Johannson",
                    "2003": "Agassi", "2004": "Federer", "2005": "Safin",
                    "2006": "Federer", "2007": "Federer", "2008": "Djokovic",
